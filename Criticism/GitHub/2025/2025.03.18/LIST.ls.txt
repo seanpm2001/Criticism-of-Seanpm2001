@@ -1,0 +1,4 @@
+- 1. I don't really understand the purpose of the extreme bloat in the README and why there are so many uncompleted languages.
+- 2. There's many LICENSE files with different extensions that are the same.
+- 3. File history*: In GitHub we have releases, that help you to separe the versions of your repository in a more comfortable way.
+
